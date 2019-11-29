@@ -1,0 +1,15 @@
+Estimado Usuario:
+                 -En el directorio "Proyecto" se encuentra el Proyecto de Sistemas Operativos II (2do BG) UTU/ITI.
+                 -El proyecto es un Script, basado en el S.O. LINUX, por lo que solamente funcionará
+                 bajo este sistema, o por algun intérprete de comando como Git en Windows.
+                 -Para obtener ayuda de cómo funciona el Script debemos abrir una consola, ubicarse dentro del directorio "Proyecto"
+                 y a parir de aquí tenemos 2 opciones ejectuando una de las siguientes lineas: 
+                        1) $ cat help.txt 
+                        2) $ bash principal.sh (Dentro estará la ayuda).
+
+Participantes del grupo:
+  
+  Gastón Machado.
+  Nicolás Díaz.
+
+ 

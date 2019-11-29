@@ -1,0 +1,3 @@
+Codigo_Venta;Codigo_Evento;Ci_Cliente;Cant_entradas;Monto_total;Usuario;FechaHora
+
+
